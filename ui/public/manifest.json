@@ -5,8 +5,8 @@
     "orientation": "portrait",
     "scope": "",
     "start_url": "/",
-    "name": "pocketbase-nextjs-template",
-    "short_name": "pocketbase-nextjs-template",
+    "name": "next-pocket",
+    "short_name": "next-pocket",
     "description": "A Next.js template for Pocketbase",
     "icons": [
         {

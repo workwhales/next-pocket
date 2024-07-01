@@ -108,7 +108,7 @@ const Login = () => {
                 >
                     <Image
                         className="rounded-full"
-                        src="/images/logo/pocketbase-nextjs-template-logo.png"
+                        src="/images/logo/next-pocket-logo.png"
                         alt="Logo"
                         width={80}
                         height={80}

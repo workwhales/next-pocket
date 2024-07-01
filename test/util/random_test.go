@@ -3,7 +3,7 @@ package util_test
 import (
 	"testing"
 
-	"github.com/natrongmbh/pocketbase-nextjs-template/pkg/util"
+	"github.com/natrongmbh/next-pocket/pkg/util"
 )
 
 func TestRandomStringBytes(t *testing.T) {
