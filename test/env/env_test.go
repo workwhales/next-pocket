@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/natrongmbh/pocketbase-nextjs-template/pkg/env"
+	"github.com/natrongmbh/next-pocket/pkg/env"
 )
 
 func TestInit(t *testing.T) {
